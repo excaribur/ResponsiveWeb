@@ -1,0 +1,49 @@
+body {
+	font-family: "Poppins", sans-serif;
+	background-color: blue;
+	color: white;
+}
+
+.survey-title {
+	width: 70%;
+	margin: 40px auto;
+	text-align: center;
+}
+
+form {
+	width: 60%;
+	background-color: darkblue;
+	margin: 0 auto;
+	padding: 30px;
+}
+
+label {
+	display: block;
+	margin: 0.5rem 0;
+}
+
+.form-group {
+	display: block;
+	margin-bottom: 25px
+}
+
+input,
+select,
+textarea {
+	width: 100%
+}
+
+.inline {
+	width: unset;
+}
+
+fieldset {
+	padding: 0px;
+	border: none;
+}
+
+button {
+	width: 100%;
+	margin: 0 auto;
+	height: 2em;
+}
